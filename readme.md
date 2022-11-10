@@ -61,6 +61,12 @@
 ![之前](https://github.com/tyua07/FP-Browser-Public/raw/master/docs/after_1.png)
 ![之前](https://github.com/tyua07/FP-Browser-Public/raw/master/docs/after_2.png)
 
+### 注入对比
+以下两张 GIF 截图展示一下：
+
+* [改机后](https://imgur.com/a/1GI3dMx)
+* [改机前](https://imgur.com/a/aD1jXqj)
+
 ## 注入选项
 
 注意：请在使用前配置好设备的运行时环境，比如语言、时间等。
