@@ -216,7 +216,7 @@
 |  | ja3.max-version |  | 最大支持的 tls 版本号（**注意：非必要，请不要使用该参数**） | tls1.3 |
 
 
-## 实例操作
+## 示例操作
 
 我们通过一个实战案例来展示动态注入浏览器属性的流程（只是展示一些常用的属性，完整版有超过 150 项）。接下来，通过修改以下参数，来对比修改前和修改后的区别。
 
@@ -571,7 +571,7 @@ emulator-5554   offline
 
 * --uuid：设备序列号或者ip:端口
 * --appium_port：appium 的端口号，默认是 4723
-* --url：默认浏览器打开的网址，在默认测试中，打开的网址是：http://tyua07.github.io/FP-Browser-Detect/。
+* --url：默认浏览器打开的网址，在默认测试中，打开的网址是：http://tyua07.github.io/FP-Browser-Detect/
 * --version：Chrome 驱动的版本号
 
 ### 强制让配置不生效
