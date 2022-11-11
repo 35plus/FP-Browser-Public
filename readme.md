@@ -8,6 +8,8 @@
 这种方式相当于是底层修改了手机配置，能通过任何 js 检测，并且动态注入后，配置在浏览器是永久生效。
 通过虚拟化的技术还可以实时动态扩容模拟器，从而实现像云计算那种便捷高效的管理浏览器容器。
 
+>注意：完整的的指纹浏览器 apk 请联系我下载
+
 ## 核心优势
 
 * 多版本指纹浏览器。因为随着 web 的发展 w3c 的标准也会随着变化。对此，我们提供了多版本兼容的指纹浏览器方案。
@@ -19,6 +21,8 @@
 ## 相关开源项目
 * [FP-Browser-Public 浏览器底层动态注入](https://github.com/tyua07/FP-Browser-Public) 
 * [FP-Browser-Detect 浏览器属性检测](https://github.com/tyua07/FP-Browser-Detect)
+* [FP-Browser-SDK 浏览器属性注入参数 SDK](https://github.com/tyua07/FP-Browser-SDK)
+* [FP-Browser-SDK 指纹浏览器全部选项的测试用例](https://github.com/tyua07/FP-Browser-Test)
 
 ## 动态注入前后对比
 
