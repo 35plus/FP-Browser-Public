@@ -22,7 +22,8 @@
 * [FP-Browser-Public 浏览器底层动态注入](https://github.com/tyua07/FP-Browser-Public) 
 * [FP-Browser-Detect 浏览器属性检测](https://github.com/tyua07/FP-Browser-Detect)
 * [FP-Browser-SDK 浏览器属性注入参数 SDK](https://github.com/tyua07/FP-Browser-SDK)
-* [FP-Browser-SDK 指纹浏览器全部选项的测试用例](https://github.com/tyua07/FP-Browser-Test)
+* [FP-Browser-Test 指纹浏览器全部选项的测试用例](https://github.com/tyua07/FP-Browser-Test)
+
 
 ## 动态注入前后对比
 
